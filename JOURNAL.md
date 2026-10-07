@@ -24,22 +24,26 @@
 
 I started designing the PCB today. I've used circuit boards and soldered them before, but I've never designed something like that. For whatever reason I had KiCad installed already, although I had to update it. Figuring out what all the controls and stuff for the schematic editor was... tedious. But some googling later and I now know about No Connect symbols and how to add and label connections and components. I decided to follow the Starbie Guide as like I said, this is new territory for me. I spent an hour figuring the software out and following the guide, and now I have 5 components diagramed. It honestly felt really good being able to figure this out and get it to make sense, so I feel like I've already learned something.
 
-![Screenshot 2026-10-07 183223](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/8a8faefdf540d2651c0e37bf05c10624240d0eb2967054c28209a47ad4241750.png)
+Here is where I was downloading the starter files and figuring out how to import the needed ones:
 
-![Screenshot 2026-10-07 180117](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/48704192928e2281234261dfbf6ae0b8468250cf503475b38a942ecd2eb542e6.png)
-
-![Screenshot 2026-10-07 175737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/14e9b3d976f0f08965c53a45997cd2b613c1a599247643da0db8879ff64fa10a.png)
-
-![Screenshot 2026-10-07 175454](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/5aaef6c6005df406da2ad2197e170f171c73b7089efa77c8719f619008b14f73.png)
-
-![Screenshot 2026-10-07 173936](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/6b9f651431b7968fb0e2be80bed2911c70e26692c4430838b43d2bb5579b5b01.png)
-
-![Screenshot 2026-10-07 173621](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/caa10c1224c10b5e15fd41ae63e90c321b7dd5c1651012a628ff30b2df66ef64.png)
-
-![Screenshot 2026-10-07 173026](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/02e2275bef1f80144260499662f34c810f8cbe813ab0ab52e12e929006b483e0.png)
-
-![Screenshot 2026-10-07 172301](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/bca710b05bfc4f9b3d48f70e9646a29fef7491643748276b1ef632b3b2c52936.png)
+![Screenshot 2026-10-07 171953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/0ace0a6552ee321fef1c21aec441e166274c22260f034b58dde0b916dfd42ce4.png)
 
 ![Screenshot 2026-10-07 172117](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/af84f7400500e83dac719d87422fdc9e9e746beaa7b0509dec2bc7404170ca80.png)
 
-![Screenshot 2026-10-07 171953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/0ace0a6552ee321fef1c21aec441e166274c22260f034b58dde0b916dfd42ce4.png)
+![Screenshot 2026-10-07 172301](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/bca710b05bfc4f9b3d48f70e9646a29fef7491643748276b1ef632b3b2c52936.png)
+
+![Screenshot 2026-10-07 173026](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/02e2275bef1f80144260499662f34c810f8cbe813ab0ab52e12e929006b483e0.png)
+
+After getting those things imported, I started creating the schematics using the guide:
+
+![Screenshot 2026-10-07 173621](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/caa10c1224c10b5e15fd41ae63e90c321b7dd5c1651012a628ff30b2df66ef64.png)
+
+![Screenshot 2026-10-07 173936](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/6b9f651431b7968fb0e2be80bed2911c70e26692c4430838b43d2bb5579b5b01.png)
+
+![Screenshot 2026-10-07 175454](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/5aaef6c6005df406da2ad2197e170f171c73b7089efa77c8719f619008b14f73.png)
+
+![Screenshot 2026-10-07 175737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/14e9b3d976f0f08965c53a45997cd2b613c1a599247643da0db8879ff64fa10a.png)
+
+![Screenshot 2026-10-07 180117](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/48704192928e2281234261dfbf6ae0b8468250cf503475b38a942ecd2eb542e6.png)
+
+![Screenshot 2026-10-07 183223](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9pj7FLxKsNBBQr77R6391M1qxl1RKbJZ/8a8faefdf540d2651c0e37bf05c10624240d0eb2967054c28209a47ad4241750.png)
