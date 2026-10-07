@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1h | 1 |
+| Week 1 | Tier 1 | 1.5h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-07 — I started designing the PCB today. I've used circuit boards and soldered them before, but I've never designed something like that. For whatever reason I had KiCad installed already, although I had to
 
-**1h**
+**1.5h**
 
 I started designing the PCB today. I've used circuit boards and soldered them before, but I've never designed something like that. For whatever reason I had KiCad installed already, although I had to update it. Figuring out what all the controls and stuff for the schematic editor was... tedious. But some googling later and I now know about No Connect symbols and how to add and label connections and components. I decided to follow the Starbie Guide as like I said, this is new territory for me. I spent an hour figuring the software out and following the guide, and now I have 5 components diagramed. It honestly felt really good being able to figure this out and get it to make sense, so I feel like I've already learned something.
 
